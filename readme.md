@@ -1,10 +1,14 @@
-<div style="display:flex; flex-direction:row;justify-content:space-between;align-items: flex-start;">
-    <div> 
-        <h1>SMS(Stock Management System)</h1>
-        <blockquote>Google Gemini를 이용해 만든 주식 관리 프로그램입니다.</blockquote>
-    </div>
-    <img src="./img/icon.png" style="width:12%;" alt="SMS 아이콘" />
-</div>
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="./img/icon.png" style="width:100px;" alt="SMS 아이콘" />
+    </td>
+    <td>
+      <h1>SMS(Stock Management System)</h1>
+      <blockquote>Google Gemini를 이용해 만든 주식 관리 프로그램입니다.</blockquote>
+    </td>
+  </tr>
+</table>
 
 <br>
 
