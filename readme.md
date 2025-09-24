@@ -93,3 +93,12 @@ python -w -F -i SMS.ico SMS.py
 - `schedule_updates()`: schedule 라이브러리를 이용해 사용자가 설정한 시간에 주가 업데이트를 예약합니다.
 - `perform_update_and_notify()`: 스케줄에 따라 실행되며, 주가 데이터 업데이트 및 알림 조건 확인을 수행합니다.
 - `update_plot_with_period(period)`: Matplotlib를 이용해 주가 그래프를 생성하고 GUI에 표시합니다.
+
+<br><br>
+
+## 6. Google Gemini QnA 내용 정리
+> 아래 리스트 내용을 클릭하시면 해당 문서로 이동합니다.  
+
+- [실제 질문 및 답변](./document/%EA%B5%AC%EA%B8%80%20gemini%20SMS%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B0%9C%EB%B0%9C%20%EC%A7%88%EB%AC%B8%20%EB%8B%B5%EB%B3%80%20%EB%AA%A8%EC%9D%8C.txt)
+- [Gemini를 활용하여 정리한 Q&A](./document/Google_Gemini_QnA_summary.md)
+  > `질문`, `트러블슈팅`, `해결 방법`, `최종 채택 방식`을 중심으로 정리하였습니다.
