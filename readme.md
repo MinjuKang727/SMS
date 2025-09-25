@@ -96,9 +96,20 @@ python -w -F -i SMS.ico SMS.py
 
 <br><br>
 
+---
+
 ## 6. Google Gemini QnA 내용 정리
 > 아래 리스트 내용을 클릭하시면 해당 문서로 이동합니다.  
 
 - [실제 질문 및 답변](./document/%EA%B5%AC%EA%B8%80%20gemini%20SMS%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B0%9C%EB%B0%9C%20%EC%A7%88%EB%AC%B8%20%EB%8B%B5%EB%B3%80%20%EB%AA%A8%EC%9D%8C.txt)
 - [Gemini를 활용하여 정리한 Q&A](./document/Google_Gemini_QnA_summary.md)
   > `질문`, `트러블슈팅`, `해결 방법`, `최종 채택 방식`을 중심으로 정리하였습니다.
+
+<br><br>
+
+---
+## 7. 버전 정보
+- `v1.0.0`: 첫 배포
+- `v1.0.1`: 버그 수정 및 버전 관리 시작
+  - '컴퓨터 시작 시 자동 실행' 체크 박스를 체크 해제 하고 설정 버튼을 눌러도 설정 변경이 되지 않는 버그 수정
+  - 버전 관리 시작
