@@ -550,7 +550,7 @@ class StockApp(tk.Tk):
         self.prev_notification_times = self.notification_times.get()
         self.prev_periods = self.periods.get()
         self.prev_file_path = self.file_path.get()
-        self.prev_startup_status = self.startup_var.get()
+        # self.prev_startup_status = self.startup_var.get()
         
         # 주식 코드나 파일 경로가 변경되면 과거 데이터 다시 로드
         self.load_historical_data()
